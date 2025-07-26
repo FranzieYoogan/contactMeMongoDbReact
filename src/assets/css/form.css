@@ -1,0 +1,46 @@
+.formLocation {
+
+    margin-top: 5rem;
+    border: 2px solid black;
+
+}
+
+.buttonStyle {
+
+    background-color: black;
+    padding: 10px;
+    cursor: pointer;
+
+}
+
+textarea {
+
+    border: 1px solid black;
+    margin-bottom: 1em;
+    box-shadow: none;
+
+}
+
+textarea:hover, textarea:focus, textarea:active {
+
+    border: 1px solid orange;
+
+}
+
+input {
+
+    border: 1px solid transparent;
+    box-shadow: none;
+}
+
+input:hover, input:focus, input:active {
+
+    border: 1px solid orange;
+
+}
+
+.buttonStyle:hover {
+
+    opacity: 0.8;
+
+}
